@@ -1,6 +1,10 @@
-
 # Microsoft Azure
 ## Deploy an Article CMS to Azure
+| Video Source | Link |
+| ------ | ------ |
+| YouTube | https://youtu.be/wqOl5fskEB0 |
+
+
  Download and install Requirements:
 | Requirement | Link |
 | ------ | ------ |
