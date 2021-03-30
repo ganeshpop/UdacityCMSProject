@@ -23,7 +23,7 @@ Approx Monthly cost:
 ### Virtual Machines:
 >Azure Virtual Machines let us provision Windows or Linux VMs in seconds, can be deployed with own VM image or images from the Azure Marketplace, ability to scale from one to thousands of VM instances in minutes with Azure Virtual Machine Scale Sets.
 
-Approx Monthly cost:
+Approximate Monthly cost:
 
 | Service | Cost (Per Month)|
 | ------ | ------ |
