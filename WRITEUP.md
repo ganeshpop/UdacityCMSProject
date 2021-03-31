@@ -41,6 +41,6 @@ Approximate Monthly cost:
 
 ## Summary
 >As our application is a not business critical and dosent require any special control over the deployment, I used App Service.
-In future there might we might add more functionality app or we might require better control over the deployment or decide to write business critical articles or ultimate usage of the app might increase.
-I that case I would migrate to a Virtual Machine and use Higher Tier SQL database for better access and security which might ultimately increase the cost.
+In future I might add more functionality to the app and we might require better control over the deployment or decide to write business critical articles or ultimate usage of the app might increase.
+>In that case I would migrate to a Virtual Machine and use Higher Tier SQL database for better access and security. New Plan will be according to the budget threshold.
 
