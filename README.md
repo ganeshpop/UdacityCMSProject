@@ -228,7 +228,7 @@ Set The following URls-
 >Allow App to access internal sql server:
 
 ```sh
-az sql server firewall-rule create --resource-group ArticleCmsRg --server finalcmssqlserver  --name "AllowAppIP" --start-ip-address  <SMALLEST-IP-FROM-PREVIOUS-STEP>  --end-ip-address  <LARGEST-IP-FROM-PREVIOUS-STEP>
+az sql server firewall-rule create --resource-group ArticleCmsRg --server <YOUR-SQL-SERVERNAME>  --name "AllowAppIP" --start-ip-address  <SMALLEST-IP-FROM-PREVIOUS-STEP>  --end-ip-address  <LARGEST-IP-FROM-PREVIOUS-STEP>
 ```
 
 
